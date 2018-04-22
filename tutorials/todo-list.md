@@ -21,7 +21,7 @@ What are we learning today?
 ```
 $ git clone git@github.com:blockstack/blockstack-todos.git
 $ cd blockstack-todos
-$ yarn install
+$ npm install
 $ npm run start
 ```
 
